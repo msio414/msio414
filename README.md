@@ -1,34 +1,32 @@
-<h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">A student studying Electrical & Electronics Engineering in Istanbul</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmas-io&label=Profile%20views&color=0e75b6&style=flat" alt="mrmas-io" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmas-io" alt="mrmas-io" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mrmasio" target="blank"><img src="https://img.shields.io/twitter/follow/mrmasio?logo=twitter&style=for-the-badge" alt="mrmasio" /></a> </p>
+<h1 style="text-align:center; font-family:Courier;">Hi 👋, I'm Muhammed</h1>
+<h3 align="center">I'm a student studying Electrical & Electronics Engineering</h3>
 
 - 🌱 I’m currently learning **C and Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mrmas-io/](https://github.com/mrmas-io/)
+- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/mrmas-io/)
 
 - 📫 How to reach me **senghoreamin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmasio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrmasio" height="30" width="40" /></a>
-<a href="https://fb.com/mrmas.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrmas.io" height="30" width="40" /></a>
-<a href="https://instagram.com/mrmas.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrmas.io" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrmasio" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mrmasio" height="30" width="40" /></a>
+<div align="center"> <a href="https://www.codewars.com/users/mrmas.io" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mrmasio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.hackerrank.com/profile/mrmasio" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+<a href="https://leetcode.com/mrmasio/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a><a href="https://exercism.org/profiles/mrmasio" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
+</div><h3 style="text-align:center; font-family:Jetbrains Mono;">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="mrmasio" height="30" width="40" /></a><a href="https://linkedin.com/in/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mrmasio" height="30" width="40" /></a><a href="https://fb.com/mrmas.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="mrmas.io" height="30" width="40" /></a><a href="https://www.hackerrank.com/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="mrmasio" height="30" width="40" /></a><a href="https://www.youtube.com/c/@mrmas-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@mrmas-io" height="30" width="40" /></a><a href="https://www.leetcode.com/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="mrmasio" height="30" width="40" /></a><a href="https://instagram.com/mrmas.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mrmas.io" height="30" width="40" /></a><a href="https://github.com/mrmas-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="mrmasio" height="30" width="40" /></a></p>
+
+<h3 style="text-align:center; font-family:Jetbrains Mono;">Languages and Tools:</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
+<!--<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>-->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmas-io&show_icons=true&locale=en&layout=compact" alt="mrmas-io" /></p>
+<h3 style="text-align:center; font-family:Jetbrains Mono;">Stars</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmas-io&show_icons=true&locale=en&theme=dark" alt="mrmas-io" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmas-io&show_icons=true&locale=en" alt="mrmas-io" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmas-io&" alt="mrmas-io" /></p>
-
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmas-io&theme=dark" alt="mrmas-io" /></p>
