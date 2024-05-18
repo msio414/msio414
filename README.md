@@ -39,12 +39,14 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""></p>
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=twitchytech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=twitchytech&limit=5&theme=dark&combine_all_yearly_contributions=true" alt=""></p>
+
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<p align="center"><img src='https://memer-new.vercel.app/' style="height: 400px;"/></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
