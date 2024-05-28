@@ -7,18 +7,18 @@
 ## 🌐 Socials:
 
 <p align="center">
-<a href="https://discord.gg/twitchytech" target="blank"><img align="center" src="https://img.shields.io/badge/-%237289DA.svg?logo=discord&logoColor=white" alt="mrmasio" height="30" width="40" /></a>
-<a href="https://x.com/techtwitchy" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="mrmasio" height="30" width="40" /></a>
+<a href="https://discord.gg/msio808" target="blank"><img align="center" src="https://img.shields.io/badge/-%237289DA.svg?logo=discord&logoColor=white" alt="mrmasio" height="30" width="40" /></a>
+<a href="https://x.com/msio808" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="mrmasio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrmasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mrmasio" height="30" width="40" /></a>
-<a href="https://instagram.com/techtwitchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mrmas.io" height="30" width="40" /></a>
-<a href="https://github.com/twitchytech" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="mrmasio" height="30" width="40" /></a></p>
+<a href="https://instagram.com/msio808" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mrmas.io" height="30" width="40" /></a>
+<a href="https://github.com/msio808" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="mrmasio" height="30" width="40" /></a></p>
 
 <div align="center">
-<a href="https://www.codewars.com/users/twitchytech" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+<a href="https://www.codewars.com/users/msio808" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mrmasio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/profile/twitchytech" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/twitchytech/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
-<a href="https://exercism.org/profiles/twitchytech" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
+<a href="https://www.hackerrank.com/profile/msio808" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+<a href="https://leetcode.com/msio808/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
+<a href="https://exercism.org/profiles/msio808" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
@@ -29,13 +29,13 @@
 <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/> </p>
 
 # 📊 GitHub Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=twitchytech&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false" alt=""><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=twitchytech&theme=graywhite&hide_border=true" alt=""><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twitchytech&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt=""></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=msio808&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false" alt=""><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=msio808&theme=graywhite&hide_border=true" alt=""><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msio808&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt=""></p>
 
 
 ## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=twitchytech&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt=""></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=msio808&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt=""></p>
 
 
 ### ✍️ Random Dev Quote
@@ -43,7 +43,7 @@
 
 
 ### 🔝 Top Contributed Repo
-<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=twitchytech&limit=5&theme=dark&combine_all_yearly_contributions=true" alt=""></p>
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=msio808&limit=5&theme=dark&combine_all_yearly_contributions=true" alt=""></p>
 
 
 ### 😂 Random Dev Meme
