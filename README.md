@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
   <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
   -->
-  <img src="https://img.shields.io/badge/Linux%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Linux Terminal">
+  <img src="https://img.shields.io/badge/Linux%20Terminal-%23000000.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Linux Terminal">
+  <img src="https://img.shields.io/badge/TryHackMe-%23f6f6f6.svg?style=for-the-badge&logo=tryhackme&logoColor=ff0000" alt="TryHackMe">
+  <img src="https://img.shields.io/badge/HackTheBox-%23f6f6f6.svg?style=for-the-badge&logo=hackthebox&logoColor=22f708" alt="HackTheBox">
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
