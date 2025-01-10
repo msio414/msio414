@@ -1,25 +1,4 @@
 # 👨🏽‍🎓 Hey there! 👋 I'm Muhammed
-<!--🔭 I’m currently working on<br>-->
-👯 I’m looking to collaborate on C projects<br>
-🌱 I’m currently learning DSA in C, Python, etc...
-
-
-## 🌐 Socials:
-
-<p align="center">
-<a href="https://discord.gg/msio808" target="blank"><img align="center" src="https://img.shields.io/badge/-%237289DA.svg?logo=discord&logoColor=white" alt="mrmasio" height="30" width="40" /></a>
-<a href="https://x.com/msio808" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="mrmasio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/msio808" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="msio808" height="30" width="40" /></a>
-<a href="https://instagram.com/msio808" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mrmas.io" height="30" width="40" /></a>
-<a href="https://github.com/msio808" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="mrmasio" height="30" width="40" /></a></p>
-
-<div align="center">
-<a href="https://www.codewars.com/users/msio808" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/msio808" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.hackerrank.com/profile/msio808" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/msio808/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
-<a href="https://exercism.org/profiles/msio808" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
-</div>
 
 <br>
 
@@ -27,13 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <!--
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683" alt="Octave">
   <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-  -->
   <img src="https://img.shields.io/badge/Linux%20Terminal-%23000000.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Linux Terminal">
   <img src="https://img.shields.io/badge/TryHackMe-%23f6f6f6.svg?style=for-the-badge&logo=tryhackme&logoColor=ff0000" alt="TryHackMe">
   <img src="https://img.shields.io/badge/HackTheBox-%23f6f6f6.svg?style=for-the-badge&logo=hackthebox&logoColor=22f708" alt="HackTheBox">
@@ -41,8 +15,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/HUGO-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo">
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
