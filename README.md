@@ -38,4 +38,6 @@
 ### 🔝 Top Contributed Repo
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=msio808&limit=5&theme=dark&combine_all_yearly_contributions=true" alt=""></p>
 
+<img src="https://raw.githubusercontent.com/msio808/msio808/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
