@@ -1,11 +1,9 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -13,33 +11,25 @@ on:
 jobs:
   generate:
     permissions:
-      contents: write  # Allows write access to repository contents
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg with private contributions
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.actor }}  # Use the authenticated user's GitHub username
+          github_user_name: ${{ github.actor }}
           outputs: dist/snake.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Ensure PAT_TOKEN has correct permissions
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
-      - name: Create output branch if not exists
-        run: |
-          git checkout --orphan output || git checkout output
-          git rm -rf .
-          git commit --allow-empty -m "Create empty output branch"
-          git push origin output
-
-      - name: Push snake.svg to the output branch
+      - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
