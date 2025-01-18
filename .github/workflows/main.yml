@@ -13,8 +13,7 @@ on:
 jobs:
   generate:
     permissions:
-      contents: write
-      read:org: read
+      contents: write  # Allows write access to repository contents
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
