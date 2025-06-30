@@ -22,13 +22,13 @@
 </p>
 
 # 📊 GitHub Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=msio808&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false" alt=""><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msio808&theme=graywhite&hide_border=true" alt=""><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msio808&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt=""></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=msio414&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false" alt=""><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=msio414&theme=graywhite&hide_border=true" alt=""><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msio414&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt=""></p>
 
 
 ## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=msio808&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt=""></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=msio414&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt=""></p>
 
 
 ### ✍️ Random Dev Quote
@@ -36,8 +36,8 @@
 
 
 ### 🔝 Top Contributed Repo
-<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=msio808&limit=5&theme=dark&combine_all_yearly_contributions=true" alt=""></p>
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=msio414&limit=5&theme=dark&combine_all_yearly_contributions=true" alt=""></p>
 
-<img src="https://raw.githubusercontent.com/msio808/msio808/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/msio414/msio414/output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
