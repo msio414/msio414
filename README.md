@@ -1,6 +1,7 @@
 <div align="center">
     <h1>💫 Hi, I'm Muhammed.</h1>
     <img height="144" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="avatar"  />
+    <br>
     <a href="https://git.io/typing-svg" target="_blank">
         <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=41&duration=4000&pause=1000&color=A0FF14&center=true&vCenter=true&random=true&width=707&height=77&lines=An+Aspiring+Cybersecurity+Engineer;An+Ethical+Hacker+in+Training;A+Security+Enthusiast;A+Future+InfoSec+Professional" alt="Typing SVG">
     </a>
